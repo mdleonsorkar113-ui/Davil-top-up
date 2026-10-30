@@ -1,7 +1,7 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "DAIMOND TOP UP BD";
+var website_name = "DAIMOND TOP UP BD ";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
